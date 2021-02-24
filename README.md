@@ -15,8 +15,8 @@
 ##计算机原理
 |书籍名称|书籍版本|书籍封面|下载链接|
 |-|-|-|-|
-|计算机是怎样跑起来的|-|<img src="picture/202102241410.png" width = "200" height = "300" alt="计算机是怎样跑起来的" align=center/>|[提取码：05v3](https://pan.baidu.com/s/1e_nUiEwtziWlRrIm4U0JhA)|
-|程序是怎样跑起来的|-|<img src="picture/202102241411.png" width = "200" height = "300" alt="程序是怎样跑起来的" align=center/>|[提取码：w0yl](https://pan.baidu.com/s/10DG3WLrzYsvLW1e3dZU46A)|
+|计算机是怎样跑起来的|-|<img src="picture/202102241410.jpg" width = "200" height = "300" alt="计算机是怎样跑起来的" align=center/>|[提取码：05v3](https://pan.baidu.com/s/1e_nUiEwtziWlRrIm4U0JhA)|
+|程序是怎样跑起来的|-|<img src="picture/202102241411.jpg" width = "200" height = "300" alt="程序是怎样跑起来的" align=center/>|[提取码：w0yl](https://pan.baidu.com/s/10DG3WLrzYsvLW1e3dZU46A)|
 
 ## Java
 ### Spring
