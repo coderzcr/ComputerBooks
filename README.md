@@ -34,3 +34,4 @@
 |-|-|-|-|-|-|
 |收获，不止Oracle|第1版|<img src="picture/202102241436.jpg" width = "100" height = "150" alt="收获，不止Oracle" align=center/>|Oracle|[提取码：lqqs](https://pan.baidu.com/s/1jWRAqpzW_4mRyWtMipO_wg)|[豆瓣链接](https://book.douban.com/subject/23857303/)|
 |收获，不止SQL优化|-|<img src="picture/202102241447.jpg" width = "100" height = "150" alt="收获，不止SQL优化" align=center/>|Oracle|[提取码：4f17](https://pan.baidu.com/s/1YfqlETjtMJNMu6hTbX8ZUg)|[豆瓣链接](https://book.douban.com/subject/27049048/)|
+|Redis深度历险：核心原理与应用实践|-|<img src="picture/202102260924.jpg" width = "100" height = "150" alt="Redis深度历险：核心原理与应用实践" align=center/>|Oracle|[提取码：1elp](https://pan.baidu.com/s/1RtiJeLaK9cVQe2gZGWyz6A)|[豆瓣链接](https://book.douban.com/subject/30386804/)|
